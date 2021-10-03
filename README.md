@@ -1,8 +1,8 @@
 # TestProject
 This is an easy project about student manage system.
 学生信息管理系统
-1.输入学生信息
-  1.1输入学生学号
+#1.输入学生信息
+#  1.1输入学生学号
   1.2输入学生姓名
   1.3输入学生年龄
   1.4输入学生地址
